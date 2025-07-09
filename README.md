@@ -50,8 +50,6 @@ npm install
 Create a .env file in the root directory and add:
 
 env
-Copy
-Edit
 PORT=5000
 MONGO_URI=your_mongo_uri
 NODE_ENV=development
@@ -59,11 +57,9 @@ JWT_SECRET=your_jwt_secret
 TMDB_API_KEY=your_tmdb_api_key
 4. Build the App
 bash
-Copy
-Edit
+
 npm run build
 5. Start the App
 bash
-Copy
-Edit
+
 npm run start
