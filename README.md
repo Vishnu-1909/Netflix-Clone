@@ -16,14 +16,18 @@ A visually appealing and responsive Netflix clone that mimics the user interface
 💙 Awesome Landing Page
 🌐 Deployment
 🚀 And Many More Cool Features
-✅ This is a lot of work. Support my work by subscribing to the Channel
+
+
+
 Setup .env file
 PORT=5000
 MONGO_URI=your_mongo_uri
 NODE_ENV=development
 JWT_SECRET=your_jwt_secre
 TMDB_API_KEY=your_tmdb_api_key
+
 Run this app locally
+
 npm run build
 Start the app
 npm run start
