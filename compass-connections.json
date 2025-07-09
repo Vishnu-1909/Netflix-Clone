@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "d0d53400-b6d7-43d9-8bbd-fba7c732113e",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1728614965928"
+        }
+      },
+      "favorite": {
+        "name": "NetflixClone"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
